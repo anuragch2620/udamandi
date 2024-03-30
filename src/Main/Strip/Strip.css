@@ -1,0 +1,13 @@
+.Strip-text{
+    font-size: 25px;
+    color: black;
+    padding: 15px;
+    font-weight: bold;
+    background-color: yellow;
+}
+.Strip-Button{
+    background-color: darkblue;
+    color: white;
+    padding: 0px 20px;
+    border-radius: 20px;
+}
